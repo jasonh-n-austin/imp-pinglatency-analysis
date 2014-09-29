@@ -6,7 +6,7 @@ Logs data for ping times between device and agent on electric imp to keen. HTML 
 Keen project id & read/write keys must be updated in agent nut & html files.
 
 ## Example of PingLatency.html 
-![Latency chart][https://raw.githubusercontent.com/jasonh-n-austin/imp-pinglatency-analysis/master/PingLatency.png]
+![Latency chart](https://raw.githubusercontent.com/jasonh-n-austin/imp-pinglatency-analysis/master/PingLatency.png)
 
 ## Keen JS library
 https://github.com/keenlabs/keen-js
